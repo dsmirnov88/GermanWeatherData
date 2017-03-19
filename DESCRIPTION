@@ -1,0 +1,11 @@
+Package: GermanWeatherData
+Type: Package
+Title: German Weather Data
+Version: 1.0.1
+Author: Dmitry Smirnov
+Maintainer: Dmitry Smirnov <dmitry.smirnov@whu.edu>
+Description: Custom package for retreiving weather data for Germany, based on address infomation.
+Depends: httr, XML, RCurl, RJSONIO
+License: GNU
+LazyData: TRUE
+RoxygenNote: 5.0.1
